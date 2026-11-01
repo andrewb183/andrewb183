@@ -23,5 +23,5 @@ I build infrastructure that runs itself.
 **Security:** Wireshark · CompTIA Security+
 
 ## Featured work
-- **Self-improving AI agent on a Raspberry Pi 5**: local LLMs (Ollama, DeepSeek-R1) with worker processes, escalating retries, a watchdog, and health monitoring
+- **[pi5-agent](https://github.com/andrewb183/pi5-agent)**: self-improving AI code-generation pipeline on a Raspberry Pi 5. Local LLMs (Ollama: qwen2.5-coder + DeepSeek-R1), async worker queues, escalating retries, coordinated watchdog and health-monitor supervisors, systemd units, and a mocked pytest suite in GitHub Actions
 - **SNHU coursework**: C++, Java unit testing, OpenGL, MEAN stack, and Docker/Angular projects (see the pinned repos)
